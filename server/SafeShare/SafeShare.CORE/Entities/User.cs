@@ -15,6 +15,5 @@ namespace SafeShare.CORE.Entities
         public string Email { get; set; }
         public string PasswordHash { get; set; }
         public bool IsAdmin { get; set; }
-        public bool IsBlocked { get; set; }
     }
 }

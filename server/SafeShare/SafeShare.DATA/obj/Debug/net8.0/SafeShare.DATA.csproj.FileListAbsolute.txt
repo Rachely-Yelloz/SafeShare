@@ -1,0 +1,6 @@
+C:\Users\user1\Desktop\תכנות שנה ב\פרוייקט פרקטיקום\server\SafeShare\SafeShare.DATA\obj\Debug\net8.0\SafeShare.DATA.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות שנה ב\פרוייקט פרקטיקום\server\SafeShare\SafeShare.DATA\obj\Debug\net8.0\SafeShare.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות שנה ב\פרוייקט פרקטיקום\server\SafeShare\SafeShare.DATA\obj\Debug\net8.0\SafeShare.DATA.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ב\פרוייקט פרקטיקום\server\SafeShare\SafeShare.DATA\obj\Debug\net8.0\SafeShare.DATA.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות שנה ב\פרוייקט פרקטיקום\server\SafeShare\SafeShare.DATA\obj\Debug\net8.0\SafeShare.DATA.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ב\פרוייקט פרקטיקום\server\SafeShare\SafeShare.DATA\obj\Debug\net8.0\SafeShare.DATA.sourcelink.json
